@@ -17,6 +17,6 @@ https://react-basic-05-menu.netlify.app
 ## 实现细节
 
 1. 设置 `menus` 状态，存放**要展示**的 Menu 卡片
-2. 设置 `categories` 状态，存放所有的 category
+2. 设置 `categories` 状态，存放所有的 category，根据数据获取（使用ES6中的`Set`）
 3. 在 Category 子组件中遍历 `categories` ，展示所有的按钮，按钮绑定事件，更新 `menu` 为对应 category 的 `menu`
 4. 在 Menu 子组件遍历 `menus` ，展示 Menu 信息
