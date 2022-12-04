@@ -6,7 +6,7 @@ https://react-basic-02-tours.netlify.app/
 
 ## React 知识点
 
-1. `useState`Hook 以及**状态提升**
+1. `useState`,`useEffect` Hook 以及**状态提升**
 2. 父组件和子组件最基础的通信方式
 
 ## 效果
