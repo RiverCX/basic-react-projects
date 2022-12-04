@@ -13,7 +13,7 @@ https://react-basic-09-color-generator.netlify.app
 ## Values JS
 
 [values.js](https://github.com/noeldelgado/values.js)
-all([weight=10])
+`all([weight=10])`
 Generates the tints and shades of the base color as specified by weight.
 @param {number} [weight=10]
 @return {Array<Values>}
